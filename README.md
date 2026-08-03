@@ -1,6 +1,6 @@
 # STIMO Robot
 Developed as a Computer Engineering Capstone Thesis at STI College Kalibo.
-
+![STIMO Front](stimo_front.jpg)
 ## Overview
 
 STIMO (Student Technology for Interactive Modes and Operations) is an IoT-based robotic assistant developed as a Computer Engineering Capstone Thesis. The project was built using Python and Raspberry Pi 4 to integrate hardware and software for interactive automation and intelligent assistance.
@@ -26,8 +26,7 @@ STIMO (Student Technology for Interactive Modes and Operations) is an IoT-based 
 ---
 
 ## Project Images
-### STIMO Robot
-![STIMO Front](stimo_front.jpg)
+
 
 ### STIMO During Exhibit
 ![STIMO Exhibit](stimo%20exhibit.jpg)
