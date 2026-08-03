@@ -1,4 +1,5 @@
 # STIMO Robot
+Developed as a Computer Engineering Capstone Thesis at STI College Kalibo.
 
 ## Overview
 
