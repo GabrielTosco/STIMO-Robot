@@ -26,12 +26,23 @@ STIMO (Student Technology for Interactive Modes and Operations) is an IoT-based 
 
 ## Project Images
 
-![STIMO](stimo_front.jpg)
-![STIMO](stimo.exhibit.jpg)
-![STIMO](stimo_elms.jpg)
-![STIMO](stimo_internal.jpg)
-![STIMO](stimo_emotes.jpg)
-![STIMO](stimo_gamemode.jpg)
+### STIMO Robot
+![STIMO Front](stimo_front.jpg)
+
+### STIMO During Exhibit
+![STIMO Exhibit](stimo%20exhibit.jpg)
+
+### eLMS Integration
+![STIMO eLMS](stimo%20elms.jpg)
+
+### Gaming Mode
+![STIMO Game Mode](stimo%20game%20mode.jpg)
+
+### Robot Emotes
+![STIMO Emotes](stimo%20emotes.jpg)
+
+### Internal Components
+![STIMO Internal](stimo%20internal.jpg)
 
 ---
 
