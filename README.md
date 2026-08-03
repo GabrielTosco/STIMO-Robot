@@ -31,6 +31,9 @@ STIMO (Student Technology for Interactive Modes and Operations) is an IoT-based 
 ### STIMO During Exhibit
 ![STIMO Exhibit](stimo%20exhibit.jpg)
 
+### STIMO Group Photo
+![STIMO Group](stimo%20group.jpg)
+
 ### eLMS Integration
 <img src="stimo%20elms.jpg" width="300">
 
