@@ -32,10 +32,19 @@ STIMO (Student Technology for Interactive Modes and Operations) is an IoT-based 
 
 ## Source Code
 
-The project source code is available inside the **source-code** folder.
+The `source-code` folder contains the core Python files used in the development of STIMO.
+
+### Main Modules
+
+- **main.py** – Main program that initializes and manages the STIMO system.
+- **calendar.py** – Handles calendar scheduling and reminder functionalities.
+- **fingerprint.py** – Implements fingerprint authentication and user verification.
+- **gaming.py** – Provides the gaming mode and interactive entertainment features of STIMO.
 
 ---
 
 ## Documentation
 
-Project documentation is available inside the **documentation** folder.
+The complete capstone thesis and project documentation are available in the `documentation` folder.
+
+- **final-paper-stimo.pdf** – Complete documentation, system design, implementation, testing, and evaluation of the STIMO project.
