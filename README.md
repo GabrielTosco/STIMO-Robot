@@ -43,8 +43,6 @@ The Python modules are available directly in the [source-code folder](source-cod
 
 ## Project gallery
 
-<details>
-<summary>View STIMO photographs and features</summary>
 
 ### Capstone exhibit
 
